@@ -9,7 +9,7 @@ ElementFilter provides a great way for you to allow users to search through the 
 How to Use
 ----------
 
-ElementFilter may be initialized at any time.  Numerous custom options may be used.
+ElementFilter may be initialized at any time (usually at DOMReady).  Numerous custom options may be used.
 
 	#JS
 	/* ElementFilter instance */
